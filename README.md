@@ -53,12 +53,14 @@ alguma outra ferramenta de apresentação que permita exportação em PDF;</h4>
     <tr>
         <td><img src="https://static.wixstatic.com/media/fa559d_edaa34f9167e48f9bc9786bc4c83c17c~mv2.jpg/v1/fill/w_218,h_238,al_c,q_80,usm_0.66_1.00_0.01/bruno.webp"</td>
         <td><img src="https://static.wixstatic.com/media/fa559d_9dde190287ea4ea6a3d0823e9b41163f~mv2.jpg/v1/crop/x_65,y_0,w_334,h_367/fill/w_218,h_238,al_c,q_80,usm_0.66_1.00_0.01/jaqueline.webp"></td>
+        <td><img src="https://static.wixstatic.com/media/fa559d_b9d0aed258124504a02cb7f152146d7d~mv2.jpg/v1/fill/w_224,h_232,al_c,q_80,usm_0.66_1.00_0.01/jonatas.webpp"></td>
         <td><img src="https://static.wixstatic.com/media/fa559d_bc817b503bd0451c8d2602a64d57ebe6~mv2.jpg/v1/crop/x_0,y_0,w_475,h_529/fill/w_218,h_238,al_c,q_80,usm_0.66_1.00_0.01/lucas.webp"></td>
         <td><img src="https://static.wixstatic.com/media/fa559d_fa2cf4ccc63e4aa6b4139bd9fd83a54c~mv2.jpg/v1/crop/x_74,y_0,w_550,h_595/fill/w_218,h_238,al_c,q_80,usm_0.66_1.00_0.01/marcio.webp"></td>
     </tr>
     <tr>
       <td><p align="center"><b>Bruno Arruda</b></p></td>
       <td><p align="center"><b>Jaqueline Mangabeira</b></p></td>
+        <td><p align="center"><b>Jonatas Hessel</b></p></td>
       <td><p align="center"><b>Lucas Farias</b<></p></td>
       <td><p align="center"><b>Márcio Estevam da Silva</b></p></td>               
     </tr>   
