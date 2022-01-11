@@ -1,0 +1,27 @@
+﻿id_facilitador;nome_facilitador;cargo;data_nascimento;data_admissao;data_demissao;cpf;rg;endereco;cidade;estado;cep;telefone;email;observacoes
+1;Isabel Tatiane Sônia Corte Real;Facilitador Tech;07/01/1977;16/08/2019;;71932605029;374592251;Rua Jardim Paraíso;Natal;RN;59073232;84983077732;iisabeltatianesoniacortereal@abbott.com;
+2;Bárbara Carolina da Silva;Facilitador Soft;06/01/1954;19/10/2019;;82270621050;194085582;Rua Dezesseis;São Luís;MA;65081351;98993210557;barbaracarolinadasilva_@yahoo.com;
+3;Mário Tomás Oliveira;Facilitador Soft;02/01/1997;10/02/2020;;80027172520;249457854;Rua Santa Leopoldina;Maceió;AL;57022260;82987937363;mariotomasoliveira_@imobiliariamaciel.com.br;
+4;André Danilo Gabriel da Luz;Facilitador Tech;06/01/1991;14/03/2020;;48563140256;322926592;Rua Fransilvania;São Gonçalo;SP;24716390;21989642382;andredanilogabrieldaluz_@edbrasil.net;
+5;Igor Sérgio Moura;Facilitador Carreira;05/01/1976;25/04/2020;;27523009565;478048579;Rua Tomé de Souza;Rio Branco;AC;69911253;68988682827;igorsergiomoura_@dosnu.com.br;
+6;Sophia Luzia Barros;Facilitador Tech;04/01/2000;25/04/2020;;55652674393;264948737;Quadra Quadra 2A;Santo Antônio do Descoberto;GO;72900212;61983573817;sophialuziabarros@machina8.com.br;
+7;Francisco Thales das Neves;Facilitador RH;04/01/2002;16/08/2019;;35295147800;420537284;Rua Raimundo Penafort;Boa Vista;RR;69313372;95989169344;ffranciscothalesdasneves@heineken.com.br;
+8;Martin Renan Vieira;Facilitador Soft;11/01/1964;19/10/2019;;63089014408;283004083;Rua Amazonas;São Bernardo do Campo;SP;9852670;11988425457;martinrenanvieira_@oana.com.br;
+9;Hugo Calebe Kauê Almada;Facilitador Adm;10/01/1991;10/02/2020;;5047583228;305224475;Rua Paraíba;Apucarana;PR;86804360;43991233987;hugocalebekauealmada_@ticem.com.br;
+10;Nair Camila Monteiro;Facilitador Tech;08/01/1995;14/03/2020;;75308797404;116087146;Beco I;Porto Alegre;RS;91751651;51994954140;naircamilamonteiro__naircamilamonteiro@dafitex.com.br;
+11;Antonio Renato Nogueira;Facilitador Carreira;09/01/1962;25/04/2020;;71776281268;183577528;Rua Doutor Ricardo Vilela 568;Mogi das Cruzes;SP;8710903;11984451925;antoniorenatonogueira..antoniorenatonogueira@engeco.com.br;
+12;Nathan Manuel Bruno da Luz;Facilitador Tech;02/01/1993;25/04/2020;;76811914530;295131809;Distrito Areia Branca, s/n;Canguaretama;RN;59190973;84989150723;nathanmanuelbrunodaluz..nathanmanuelbrunodaluz@sp.senac.com.br;
+13;Luan Anderson Lima;Facilitador Tech;04/01/1989;16/08/2019;;31457529874;309258698;2ª Travessa Vale Dourado;Natal;RN;59114131;84983035194;luanandersonlima..luanandersonlima@muricy.com;
+14;Francisca Andrea Monteiro;Facilitador Adm;01/01/1966;19/10/2019;;88491901400;393870017;Rua Santos Dumont;Macapá;AP;68902230;96984189375;franciscaandreamonteiro_@agltda.com.br;
+15;Allana Cristiane Costa;Facilitador Soft;02/01/1974;10/02/2020;;54762600210;286475583;Rua dos Carapanás;Florianópolis;SC;88053417;48989224617;allanacristianecosta__allanacristianecosta@ntiequipamentos.com.br;
+16;Murilo Carlos Eduardo Julio Nunes;Facilitador Tech;07/01/1993;14/03/2020;;86600327308;129860529;Rua Manoel Tavares;Cachoeiro de Itapemirim;ES;29304580;28985355091;murilocarloseduardojulionunes-81@terra.com.br;
+17;Isabel Giovana Aparício;Facilitador Carreira;01/01/1948;25/04/2020;;21776868226;286534319;Rua dos Ipês Roxo;Palhoça;SC;88136327;48997950347;isabelgiovanaaparicio-82@hotmail.de;
+18;Thales Rodrigo Vitor Nunes;Facilitador Tech;09/01/1967;25/04/2020;;39724869520;296464314;Rua Carmésia;Itabira;MG;35900287;31999395998;thalesrodrigovitornunes_@alphagraphics.com.br;
+19;Ricardo Gael Assis;Facilitador Adm;10/01/1998;16/08/2019;;65495094832;507315704;Avenida Dois de Abril;Ji-Paraná;RO;76900028;69996076015;ricardogaelassis..ricardogaelassis@ssala.com.br;
+20;Liz Analu Vieira;Facilitador Soft;08/01/1973;19/10/2019;;13090005573;437085648;Rua Santo Expedito;Parnaíba;PI;64207300;86992102850;lizanaluvieira-70@onvale.com;
+21;Edson Vinicius Rocha;Facilitador Tech;08/01/1967;10/02/2020;;25245431530;178418924;Rua A;Rio das Ostras;RJ;28898201;22991316526;edsonviniciusrocha_@mktec.com.br;
+22;Joana Luzia Viana;Facilitador RH;11/01/1971;14/03/2020;;73215867400;202196598;Servidão Joaquim Sílvio Noel;Petrópolis;RJ;25665112;24982897101;joanaluziaviana__joanaluziaviana@doublesp.com.br;
+23;Bernardo Yago Almeida;Facilitador Soft;09/01/1969;25/04/2020;;47537247439;456119279;Rua Olívia das Dores Rodrigues;Cachoeiro de Itapemirim;ES;29316098;28988644908;bernardoyagoalmeida__bernardoyagoalmeida@pronta.com.br;
+24;Ester Priscila Almada;Facilitador Tech;09/01/1968;25/04/2020;;18672173929;508106357;Rua Marques Leite Silva;Aracaju;SE;49090360;79992937094;eesterpriscilaalmada@salvagninigroup.com;
+25;Augusto Samuel Araújo;Facilitador Carreira;08/01/1986;16/08/2019;;91484283619;394299966;Rua Dina Sfat;Fortaleza;CE;60830496;85996088412;augustosamuelaraujo__augustosamuelaraujo@br.nestle.com;
+26;Yasmin Bianca Teixeira;Facilitador Tech;05/01/1955;19/10/2019;;79987828116;507933758;Rua das Margaridas;Palhoça;SC;88134117;48989121400;yasminbiancateixeira__yasminbiancateixeira@consorciobcv.com.br;

@@ -1,0 +1,25 @@
+﻿id_modulo;nome_modulo;area_formacao;descricao;hard_skills;soft_skills;duracao;projeto_final;id_facilitador
+1;Módulo_01_DT;Dados;Pensamento Computacional;Introdução a linguagem de programação;N/A;30;jogo narrativo;1
+2;Módulo_01_DS;Dados;Novos Hábitos de Estudo;N/A;Mindset de crescimento;30;N/A;2
+3;Módulo_02_DT;Dados;Técnicas de Programação;Estrutura de dados;N/A;30;jogo multiplayer;4
+4;Módulo_02_DS;Dados;Lidar com as Emoções;N/A;Inteligência Emocional;30;N/A;3
+5;Módulo_03_DT;Dados;Banco de Dados;Análise de dados em SGBD;N/A;30;banco de dados;6
+6;Módulo_03_DS;Dados;Princípios da Met. Ágil;N/A;Métodos Ágeis;30;N/A;8
+7;Módulo_04_DT;Dados;Pandas, Seaborn, Colab;Pandas, Google Colab, Estatística com Python;N/A;30;projeto fic_1;10
+8;Módulo_04_DS;Dados;Soluções criativas;N/A;Postura Profissional;30;N/A;15
+9;Módulo_05_DT;Dados;Plotagem de Dados;Mineração de dados;N/A;30;projeto fic_2;12
+10;Módulo_05_DS;Dados;Entender público alvo;N/A;Capacidade Investigativa;30;N/A;20
+11;Módulo_06_DT;Dados;Visualização de Dados;Introdução ao Tableau;N/A;30;projeto fic_3;13
+12;Módulo_06_DS;Dados;Processos Seletivos;N/A;Empregabilidade;30;N/A;23
+13;Módulo_01_WT;Web Dev;Introdução Web Dev;Páginas estáticas HTML5 e CSS3;N/A;30;projeto dev_1;16
+14;Módulo_01_WS;Web Dev;Novos Hábitos de Estudo;N/A;Mindset de crescimento;30;N/A;2
+15;Módulo_02_WT;Web Dev;Orientação a Objetos;Páginas dinâmicas JavaScript;N/A;30;projeto dev_2;18
+16;Módulo_02_WS;Web Dev;Lidar com as Emoções;N/A;Inteligência Emocional;30;N/A;3
+17;Módulo_03_WT;Web Dev;Modelos de Armaz. Dados;Modelagem de banco de dados;N/A;30;projeto dev_3;21
+18;Módulo_03_WS;Web Dev;Princípios da Met. Ágil;N/A;Métodos Ágeis;30;N/A;8
+19;Módulo_04_WT;Web Dev;Frameworks Back End;Criar APIs;N/A;30;projeto dev_4;24
+20;Módulo_04_WS;Web Dev;Soluções criativas;N/A;Postura Profissional;30;N/A;15
+21;Módulo_05_WT;Web Dev;Frameworks Front End;Criar Interfaces;N/A;30;projeto dev_5;26
+22;Módulo_05_WS;Web Dev;Entender público alvo;N/A;Capacidade Investigativa;30;N/A;20
+23;Módulo_06_WT;Web Dev;Projeto Final;Escolher um dos 5 projetos finais;N/A;30;projeto dev_6;1
+24;Módulo_06_WS;Web Dev;Processos Seletivos;N/A;Empregabilidade;30;N/A;23
