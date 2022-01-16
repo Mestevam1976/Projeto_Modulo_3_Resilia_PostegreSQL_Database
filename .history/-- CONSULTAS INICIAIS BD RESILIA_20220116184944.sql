@@ -41,5 +41,3 @@ ORDER BY cursos.nome_curso;
 --PARA CHECAR:
 SELECT * FROM vw_aluno_facilitador_curso
 
-
-
