@@ -1,0 +1,8 @@
+﻿id_depto;nome_depto;email_depto;qtde_funcionarios;gerente_depto;telefone_depto
+1;depto_administrativo;adm@outlook.com;5;leandro;4002-8922
+2;depto_financeiro;financeiro@outlook.com;2;leonardo;1618-0300
+3;depto_rh;rh@outlook.com;2;simone;1380-6488
+4;depto_comercial;comercial@outlook.com;5;simaria;2997-9245
+5;depto_operacional;operacional@outlook.com;8;brunna;3141-5926
+6;depto_marketing;marketing@outlook.com;2;henrique;6022-1023
+7;depto_juridico;juridico@outlook.com;1;lais;6671-0113
