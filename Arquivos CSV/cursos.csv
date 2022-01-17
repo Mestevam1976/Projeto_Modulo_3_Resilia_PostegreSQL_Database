@@ -1,14 +1,15 @@
-ID_Curso :;Cursos:;requesitos;hórario ;turno;duração;carga hóraria;preço
-1;formação webdev full stack;"Ensino Médio completo
-Dedicação durante os 6 meses de curso de forma integral
+ï»¿ID_Curso;Cursos;requesitos;horario ;turno;duracao;carga horaria;preÃ§o
+1;formaÃ§Ã£o webdev full stack;"Ensino MÃ©dio completo
+DedicaÃ§Ã£o durante os 6 meses de curso de forma integral
 Ser maior de 18 anos";19:00:00   22:00:00;noturno;6 meses;400 horas;16.000
-2;formação em data analytics;"Ensino Médio completo
-Dedicação durante os 6 meses de curso de forma integral
+2;formaÃ§Ã£o em data analytics;"Ensino MÃ©dio completo
+DedicaÃ§Ã£o durante os 6 meses de curso de forma integral
 Ser maior de 18 anos";19:00:00   22:00:00;noturno;6 meses;400 horas;16.000
-3;java - do zero ao profissional ;logica da programação;ead/livre;livre;3 meses;68 horas;      250.00
-5;formação em ciência de dados;"Ensino Médio completo
-Dedicação durante os 6 meses de curso de forma integral
+3;java - do zero ao profissional ;logica da programaÃ§Ã£o;ead/livre;livre;3 meses;68 horas;      250.00
+4;webdesigner;logica da programaÃ§Ã£o;ead/livre;livre;3 meses;68 horas;      250.00
+5;formaÃ§Ã£o em ciÃªncia de dados;"Ensino MÃ©dio completo
+DedicaÃ§Ã£o durante os 6 meses de curso de forma integral
 Ser maior de 18 anos";19:00:00   22:00:00;noturno;6 meses;400 horas;16.000
-6;formação em engenharia de dados;"Ensino Médio completo
-Dedicação durante os 6 meses de curso de forma integral
+6;formaÃ§Ã£o em engenharia de dados;"Ensino MÃ©dio completo
+DedicaÃ§Ã£o durante os 6 meses de curso de forma integral
 Ser maior de 18 anos";18:00:00  21:00:00;noturno;6 meses;400 horas;12.000
