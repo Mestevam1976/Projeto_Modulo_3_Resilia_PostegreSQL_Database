@@ -1,0 +1,13 @@
+﻿id_equipamento;tipo;ean;estoque;prazo_emprestimo;id_aluno
+1;monitor hp;1,23457E+11;1;6 meses;17
+2;notebook dell ;5,55444E+11;1;6 meses;32
+3;notebook samsung;5,68754E+11;1;6 meses;23
+4;mouse hp;5,34658E+11;1;6 meses;40
+5;monitor hp;3,65675E+11;1;6 meses;30
+6;notebook samsung;4,56475E+11;1;6 meses;15
+7;notebook dell ;6,73785E+11;1;6 meses;2
+8;monitor hp;4,52853E+11;1;6 meses;6
+9;notebook samsung;2,52787E+11;1;6 meses;7
+10;notebook lg;2,42425E+11;1;6 meses;25
+11;notebook lg;9,79587E+11;1;6 meses;3
+12;notebook dell ;5,47376E+11;1;6 meses;28
