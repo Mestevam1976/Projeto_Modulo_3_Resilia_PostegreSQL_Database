@@ -1,9 +1,9 @@
--- TABELA DE Depto facilitador
+-- TABELA DE Dept facilitador
 
 CREATE TABLE depto_facilitador (
 
     id_depto_facilitador INT PRIMARY KEY,
-	nome_facilitador VARCHAR(150) NULL UNIQUE,
+	nome_facilitador VARCHAR(150) NULL ,
 	id_facilitador INT NOT NULL,
 	id_depto INT NOT NULL,
 	nome_depto VARCHAR(150) NULL,	

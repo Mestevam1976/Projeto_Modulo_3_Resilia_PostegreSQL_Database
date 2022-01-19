@@ -1,4 +1,4 @@
--- TABELA DE Depto facilitador
+-- TABELA DE DeptO facilitador
 
 CREATE TABLE depto_facilitador (
 
