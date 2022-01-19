@@ -41,7 +41,7 @@ ORDER BY cursos.nome_curso;
 --PARA CHECAR:
 SELECT * FROM vw_aluno_facilitador_curso
 
---CRIANDO VIEW PARA SELECIONAR OS ALUNOS QUE POSSUEM EQUIPAMENTOS EMPRESTADOS:
+--CRIANDO VIEW PARA SELECIONAR OS ALUNOS QUE POSSUEM EQUIPAMENTOS EMPRESTADOS
 SELECT alunos.nome_aluno, alunos.id_equipamento, equipamentos.tipo FROM alunos
 JOIN equipamentos ON equipamentos.id_aluno = alunos.id_aluno
 GROUP BY alunos.nome_aluno, alunos.id_equipamento, equipamentos.tipo
@@ -53,22 +53,4 @@ JOIN equipamentos ON equipamentos.id_aluno = alunos.id_aluno
 GROUP BY alunos.nome_aluno, alunos.id_equipamento, equipamentos.tipo
 ORDER BY alunos.nome_aluno;
 
-SELECT * FROM vw_alunos_equipamentos;
-
---CRIANDO VIEW PARA SELECIONAR FACILITADOR, SUA IDADE, TEMPO DE RESILIA E DEPTO:
-CREATE VIEW vw_facilit_idade_tempo_depto AS
-SELECT 
-facilitadores.nome_facilitador, 
-facilitadores.cargo, 
-EXTRACT (YEAR FROM AGE(facilitadores.data_nascimento)) AS "Idade",
-AGE(facilitadores.data_admissao) AS "Tempo de Resilia",
-departamentos.nome_depto 
-FROM facilitadores
-JOIN depto_facilitador ON depto_facilitador.id_facilitador = facilitadores.id_facilitador
-JOIN departamentos ON departamentos.id_depto = depto_facilitador.id_depto
-GROUP BY facilitadores.nome_facilitador, facilitadores.cargo, facilitadores.data_admissao,
-facilitadores.data_nascimento, departamentos.nome_depto
-ORDER BY 
-facilitadores.nome_facilitador, AGE(facilitadores.data_nascimento), AGE(facilitadores.data_admissao);
-
-SELECT * FROM vw_facilit_idade_tempo_depto;
+SELECT * FROM vw_alunos_equipamentos

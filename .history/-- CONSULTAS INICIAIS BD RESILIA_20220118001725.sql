@@ -71,4 +71,4 @@ facilitadores.data_nascimento, departamentos.nome_depto
 ORDER BY 
 facilitadores.nome_facilitador, AGE(facilitadores.data_nascimento), AGE(facilitadores.data_admissao);
 
-SELECT * FROM vw_facilit_idade_tempo_depto;
+SELECT * FROM vw_facilit_idade_tempo_depto

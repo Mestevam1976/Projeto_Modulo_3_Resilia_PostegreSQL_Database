@@ -55,7 +55,7 @@ ORDER BY alunos.nome_aluno;
 
 SELECT * FROM vw_alunos_equipamentos;
 
---CRIANDO VIEW PARA SELECIONAR FACILITADOR, SUA IDADE, TEMPO DE RESILIA E DEPTO:
+--CRIANDO VIEW PARA SELECIONAR 
 CREATE VIEW vw_facilit_idade_tempo_depto AS
 SELECT 
 facilitadores.nome_facilitador, 
@@ -71,4 +71,4 @@ facilitadores.data_nascimento, departamentos.nome_depto
 ORDER BY 
 facilitadores.nome_facilitador, AGE(facilitadores.data_nascimento), AGE(facilitadores.data_admissao);
 
-SELECT * FROM vw_facilit_idade_tempo_depto;
+SELECT * FROM vw_facilit_idade_tempo_depto

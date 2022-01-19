@@ -1,0 +1,34 @@
+﻿id_depto_facilitador;nome_facilitador;id_facilitador;cargo;id_depto;nome_depto
+9;Hugo Calebe Kauê Almada;9;Facilitador Adm;1;depto_administrativo
+14;Francisca Andrea Monteiro;14;Facilitador Adm;1;depto_administrativo
+19;Ricardo Gael Assis;19;Facilitador Adm;1;depto_administrativo
+27;Leandro Bebezoide de Arruda;27;Gerente Adminstrativo;1;depto_administrativo
+28;Leonardo Barrozo de Lima;28;Gerente Financeiro;2;depto_financeiro
+5;Igor Sérgio Moura;5;Facilitador Carreira;3;depto_rh
+11;Antonio Renato Nogueira;11;Facilitador Carreira;3;depto_rh
+17;Isabel Giovana Aparício;17;Facilitador Carreira;3;depto_rh
+25;Augusto Samuel Araújo;25;Facilitador Carreira;3;depto_rh
+7;Francisco Thales das Neves;7;Facilitador RH;3;depto_rh
+22;Joana Luzia Viana;22;Facilitador RH;3;depto_rh
+29;Simone Britto ;29;Gerente RH;3;depto_rh
+30;Simaria Antunes;30;Gerente Comercial;4;depto_comercial
+2;Bárbara Carolina da Silva;2;Facilitador Soft;5;depto_operacional
+3;Mário Tomás Oliveira;3;Facilitador Soft;5;depto_operacional
+8;Martin Renan Vieira;8;Facilitador Soft;5;depto_operacional
+15;Allana Cristiane Costa;15;Facilitador Soft;5;depto_operacional
+20;Liz Analu Vieira;20;Facilitador Soft;5;depto_operacional
+23;Bernardo Yago Almeida;23;Facilitador Soft;5;depto_operacional
+1;Isabel Tatiane Sônia Corte Real;1;Facilitador Tech;5;depto_operacional
+4;André Danilo Gabriel da Luz;4;Facilitador Tech;5;depto_operacional
+6;Sophia Luzia Barros;6;Facilitador Tech;5;depto_operacional
+10;Nair Camila Monteiro;10;Facilitador Tech;5;depto_operacional
+12;Nathan Manuel Bruno da Luz;12;Facilitador Tech;5;depto_operacional
+13;Luan Anderson Lima;13;Facilitador Tech;5;depto_operacional
+16;Murilo Carlos Eduardo Julio Nunes;16;Facilitador Tech;5;depto_operacional
+18;Thales Rodrigo Vitor Nunes;18;Facilitador Tech;5;depto_operacional
+21;Edson Vinicius Rocha;21;Facilitador Tech;5;depto_operacional
+24;Ester Priscila Almada;24;Facilitador Tech;5;depto_operacional
+26;Yasmin Bianca Teixeira;26;Facilitador Tech;5;depto_operacional
+31;Bruna Derek Cincinatto ;31;Gerente Operacional;5;depto_operacional
+32;Henrique Pedro Gabriel Spinola;32;Gerente Marketing;6;depto_marketing
+33;Lais Fonseca Sartorio;33;Gerente Juridico;7;depto_juridico
