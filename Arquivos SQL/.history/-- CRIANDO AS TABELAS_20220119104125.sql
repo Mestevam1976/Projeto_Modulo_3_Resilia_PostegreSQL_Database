@@ -126,14 +126,9 @@ CREATE TABLE modulo_curso (
 
 );
 
---MÉTODO INSERT PARA POVOAMENTO DAS TABELAS 
---(OBS: NÃO OPTAMOS POR ESSE MÉTODO E SIM PELA IMPORTAÇÃO DE ARQUIVOS CSV NO POSTGRESQL)
+--MÉTODO INSERT PARA POVOAMENTO DAS TABELAS (OBS: NÃO OPTAMOS POR ESSE MÉTODO E SIM PELO IMPORT DE 
+--ARQUIVOS CSV)
 
 INSERT INTO "nome_da_tabela" (atributo_1, atributo_2, atributo_3, ...atributo_n) 
-    VALUES (valor_a1, valor_a2, valor_a3, ...valor_an),
-           (valor_b1, valor_b2, valor_b3, ...valor_bn),
-           (valor_c1, valor_c2, valor_c3, ...valor_cn),
-           .
-           .
-           .
-           (valor_n1, valor_n2, valor_n3, ...valor_nn);
+    VALUES (valor_a1, valor_a2, valor_a3, ...valor_an)
+           ()
